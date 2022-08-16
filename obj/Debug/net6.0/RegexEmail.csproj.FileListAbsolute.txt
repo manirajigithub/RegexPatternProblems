@@ -1,0 +1,5 @@
+C:\Users\mani1\source\repos\RegexFirstName\RegexEmail\obj\Debug\net6.0\RegexEmail.csproj.AssemblyReference.cache
+C:\Users\mani1\source\repos\RegexFirstName\RegexEmail\obj\Debug\net6.0\RegexEmail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mani1\source\repos\RegexFirstName\RegexEmail\obj\Debug\net6.0\RegexEmail.AssemblyInfoInputs.cache
+C:\Users\mani1\source\repos\RegexFirstName\RegexEmail\obj\Debug\net6.0\RegexEmail.AssemblyInfo.cs
+C:\Users\mani1\source\repos\RegexFirstName\RegexEmail\obj\Debug\net6.0\RegexEmail.csproj.CoreCompileInputs.cache
