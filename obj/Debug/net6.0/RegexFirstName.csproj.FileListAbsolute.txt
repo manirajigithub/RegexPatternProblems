@@ -1,0 +1,15 @@
+C:\Users\mani1\source\repos\RegexFirstName\RegexFirstName\bin\Debug\net6.0\RegexFirstName.exe
+C:\Users\mani1\source\repos\RegexFirstName\RegexFirstName\bin\Debug\net6.0\RegexFirstName.deps.json
+C:\Users\mani1\source\repos\RegexFirstName\RegexFirstName\bin\Debug\net6.0\RegexFirstName.runtimeconfig.json
+C:\Users\mani1\source\repos\RegexFirstName\RegexFirstName\bin\Debug\net6.0\RegexFirstName.dll
+C:\Users\mani1\source\repos\RegexFirstName\RegexFirstName\bin\Debug\net6.0\RegexFirstName.pdb
+C:\Users\mani1\source\repos\RegexFirstName\RegexFirstName\obj\Debug\net6.0\RegexFirstName.csproj.AssemblyReference.cache
+C:\Users\mani1\source\repos\RegexFirstName\RegexFirstName\obj\Debug\net6.0\RegexFirstName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mani1\source\repos\RegexFirstName\RegexFirstName\obj\Debug\net6.0\RegexFirstName.AssemblyInfoInputs.cache
+C:\Users\mani1\source\repos\RegexFirstName\RegexFirstName\obj\Debug\net6.0\RegexFirstName.AssemblyInfo.cs
+C:\Users\mani1\source\repos\RegexFirstName\RegexFirstName\obj\Debug\net6.0\RegexFirstName.csproj.CoreCompileInputs.cache
+C:\Users\mani1\source\repos\RegexFirstName\RegexFirstName\obj\Debug\net6.0\RegexFirstName.dll
+C:\Users\mani1\source\repos\RegexFirstName\RegexFirstName\obj\Debug\net6.0\refint\RegexFirstName.dll
+C:\Users\mani1\source\repos\RegexFirstName\RegexFirstName\obj\Debug\net6.0\RegexFirstName.pdb
+C:\Users\mani1\source\repos\RegexFirstName\RegexFirstName\obj\Debug\net6.0\RegexFirstName.genruntimeconfig.cache
+C:\Users\mani1\source\repos\RegexFirstName\RegexFirstName\obj\Debug\net6.0\ref\RegexFirstName.dll
