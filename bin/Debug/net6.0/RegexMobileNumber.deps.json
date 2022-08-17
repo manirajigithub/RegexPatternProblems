@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RegexMobileNumber/1.0.0": {
+        "runtime": {
+          "RegexMobileNumber.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RegexMobileNumber/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

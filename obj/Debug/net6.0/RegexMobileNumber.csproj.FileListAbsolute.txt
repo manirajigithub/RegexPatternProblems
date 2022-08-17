@@ -1,0 +1,15 @@
+C:\Users\mani1\source\repos\RegexFirstName\RegexMobileNumber\obj\Debug\net6.0\RegexMobileNumber.csproj.AssemblyReference.cache
+C:\Users\mani1\source\repos\RegexFirstName\RegexMobileNumber\obj\Debug\net6.0\RegexMobileNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mani1\source\repos\RegexFirstName\RegexMobileNumber\obj\Debug\net6.0\RegexMobileNumber.AssemblyInfoInputs.cache
+C:\Users\mani1\source\repos\RegexFirstName\RegexMobileNumber\obj\Debug\net6.0\RegexMobileNumber.AssemblyInfo.cs
+C:\Users\mani1\source\repos\RegexFirstName\RegexMobileNumber\obj\Debug\net6.0\RegexMobileNumber.csproj.CoreCompileInputs.cache
+C:\Users\mani1\source\repos\RegexFirstName\RegexMobileNumber\bin\Debug\net6.0\RegexMobileNumber.exe
+C:\Users\mani1\source\repos\RegexFirstName\RegexMobileNumber\bin\Debug\net6.0\RegexMobileNumber.deps.json
+C:\Users\mani1\source\repos\RegexFirstName\RegexMobileNumber\bin\Debug\net6.0\RegexMobileNumber.runtimeconfig.json
+C:\Users\mani1\source\repos\RegexFirstName\RegexMobileNumber\bin\Debug\net6.0\RegexMobileNumber.dll
+C:\Users\mani1\source\repos\RegexFirstName\RegexMobileNumber\bin\Debug\net6.0\RegexMobileNumber.pdb
+C:\Users\mani1\source\repos\RegexFirstName\RegexMobileNumber\obj\Debug\net6.0\RegexMobileNumber.dll
+C:\Users\mani1\source\repos\RegexFirstName\RegexMobileNumber\obj\Debug\net6.0\refint\RegexMobileNumber.dll
+C:\Users\mani1\source\repos\RegexFirstName\RegexMobileNumber\obj\Debug\net6.0\RegexMobileNumber.pdb
+C:\Users\mani1\source\repos\RegexFirstName\RegexMobileNumber\obj\Debug\net6.0\RegexMobileNumber.genruntimeconfig.cache
+C:\Users\mani1\source\repos\RegexFirstName\RegexMobileNumber\obj\Debug\net6.0\ref\RegexMobileNumber.dll
