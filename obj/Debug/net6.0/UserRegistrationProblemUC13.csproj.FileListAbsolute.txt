@@ -1,0 +1,15 @@
+C:\Users\mani1\source\repos\RegexFirstName\UserRegistrationProblemUC13\bin\Debug\net6.0\UserRegistrationProblemUC13.exe
+C:\Users\mani1\source\repos\RegexFirstName\UserRegistrationProblemUC13\bin\Debug\net6.0\UserRegistrationProblemUC13.deps.json
+C:\Users\mani1\source\repos\RegexFirstName\UserRegistrationProblemUC13\bin\Debug\net6.0\UserRegistrationProblemUC13.runtimeconfig.json
+C:\Users\mani1\source\repos\RegexFirstName\UserRegistrationProblemUC13\bin\Debug\net6.0\UserRegistrationProblemUC13.dll
+C:\Users\mani1\source\repos\RegexFirstName\UserRegistrationProblemUC13\bin\Debug\net6.0\UserRegistrationProblemUC13.pdb
+C:\Users\mani1\source\repos\RegexFirstName\UserRegistrationProblemUC13\obj\Debug\net6.0\UserRegistrationProblemUC13.csproj.AssemblyReference.cache
+C:\Users\mani1\source\repos\RegexFirstName\UserRegistrationProblemUC13\obj\Debug\net6.0\UserRegistrationProblemUC13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mani1\source\repos\RegexFirstName\UserRegistrationProblemUC13\obj\Debug\net6.0\UserRegistrationProblemUC13.AssemblyInfoInputs.cache
+C:\Users\mani1\source\repos\RegexFirstName\UserRegistrationProblemUC13\obj\Debug\net6.0\UserRegistrationProblemUC13.AssemblyInfo.cs
+C:\Users\mani1\source\repos\RegexFirstName\UserRegistrationProblemUC13\obj\Debug\net6.0\UserRegistrationProblemUC13.csproj.CoreCompileInputs.cache
+C:\Users\mani1\source\repos\RegexFirstName\UserRegistrationProblemUC13\obj\Debug\net6.0\UserRegistrationProblemUC13.dll
+C:\Users\mani1\source\repos\RegexFirstName\UserRegistrationProblemUC13\obj\Debug\net6.0\refint\UserRegistrationProblemUC13.dll
+C:\Users\mani1\source\repos\RegexFirstName\UserRegistrationProblemUC13\obj\Debug\net6.0\UserRegistrationProblemUC13.pdb
+C:\Users\mani1\source\repos\RegexFirstName\UserRegistrationProblemUC13\obj\Debug\net6.0\UserRegistrationProblemUC13.genruntimeconfig.cache
+C:\Users\mani1\source\repos\RegexFirstName\UserRegistrationProblemUC13\obj\Debug\net6.0\ref\UserRegistrationProblemUC13.dll
